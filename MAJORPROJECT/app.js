@@ -1,4 +1,4 @@
-// BASIC SET UP
+// BASIC SET UP sathes
 const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
